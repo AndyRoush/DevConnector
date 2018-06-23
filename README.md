@@ -1,1 +1,1 @@
-# DevConnector
+# rea-sales-client
